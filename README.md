@@ -1,4 +1,4 @@
-<h1 align="center">Hey how's it going! I'm Jimmy</h1>
+<h1 align="center">Hey how's it going!</h1>
 <h3 align="center">Passionate C# Developer | WPF | .NET | Software Engineering</h3>
 
 🚀 **About Me**  
