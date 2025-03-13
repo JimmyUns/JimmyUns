@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Jimmy</h1>
+<h1 align="center">Hey how's it going! I'm Jimmy</h1>
 <h3 align="center">Passionate C# Developer | WPF | .NET | Software Engineering</h3>
 
 🚀 **About Me**  
@@ -31,5 +31,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyuns&layout=compact&theme=tokyonight)  
 
 ---
-
-💡 **Fun Fact:** *Most of my bugs come from missing semicolons... or forgetting to save my files before running the code!* 😅  
